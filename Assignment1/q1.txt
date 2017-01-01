@@ -1,0 +1,14 @@
+Name: Wei Zhe (Richard) Ni
+Student ID: 260674646
+
+a)
+After running the command "cat Problem1/answer.txt", the standard output read "Permission denied", making the file not accessible to read,
+
+b)
+First, I ran the command "chmod u+w Problem1/answer.txt" but permission is still denied. Then I tried "chmod u+r Problem1/answer.txt" and this fixed the error. Below is the content of the file.
+This file contains a message with the answer to part 1. The message is:
+
+"Look what I learned in 206!"
+
+Congratulations if you read this.
+
